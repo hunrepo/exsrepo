@@ -1,4 +1,7 @@
-﻿[B]1.1.1[/B]
+﻿[B]1.1.2[/B]
+- Hibajavítás
+
+[B]1.1.1[/B]
 - Új kiszolgáló (NONSTOPMOZI)
 - NETMOZI kiszolgáló frissítés
 - ALLUCHU kiszolgáló frissítés
