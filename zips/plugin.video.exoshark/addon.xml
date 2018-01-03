@@ -1,4 +1,4 @@
-﻿<addon id="plugin.video.exoshark" version="1.2.2" name="ExoShark" provider-name="ExoShark">
+﻿<addon id="plugin.video.exoshark" version="1.2.3" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
@@ -6,6 +6,7 @@
 		<import addon="script.module.urlresolver" version="3.0.32" />
 		<import addon="script.module.metahandler" version="2.9.0" />
 		<import addon="script.module.requests" version="2.12.4" />
+		<import addon="script.module.beautifulsoup4"/>
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="exoshark.py">
 		<provides>video</provides>
@@ -25,8 +26,13 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- Új kiszolgáló (MOOVIECC)
+		<news>- Új kiszolgáló (FILMEZEK)
 - FILMEZZ kiszolgáló frissítés
-- A feliratkereső funkció nem működött egyes eszközökön - javítva</news>
+- FILMGO kiszolgáló frissítés
+- SOROZATKATALOGUS kiszolgáló frissítés
+- IMDb listák listázása javítva
+- Új angol kiszolgálók (BEETV, CHILLAX, FILEPURSUIT, FILMBAROON, SERIESONLINE, SHOWBOX, VMOOVE, VUMOO)
+- Angol kiszolgáló frissítések (ALLRLS, CARTOONHD, CMOVIES, FLIXANITY, HASTI, MOVIE4KIS,
+MOVIESGOLD, PRIMEWIRE, SERIESCRAVINGS, SOLARMOVIE, WATCHSERIES, XWATCHSERIES)</news>
 	</extension>
 </addon>

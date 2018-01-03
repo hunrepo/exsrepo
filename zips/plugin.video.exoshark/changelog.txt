@@ -1,4 +1,14 @@
-﻿[B]1.2.2[/B]
+﻿[B]1.2.3[/B]
+- Új kiszolgáló (FILMEZEK)
+- FILMEZZ kiszolgáló frissítés
+- FILMGO kiszolgáló frissítés
+- SOROZATKATALOGUS kiszolgáló frissítés
+- IMDb listák listázása javítva
+- Új angol kiszolgálók (BEETV, CHILLAX, FILEPURSUIT, FILMBAROON, SERIESONLINE, SHOWBOX, VMOOVE, VUMOO)
+- Angol kiszolgáló frissítések (ALLRLS, CARTOONHD, CMOVIES, FLIXANITY, HASTI, MOVIE4KIS,
+MOVIESGOLD, PRIMEWIRE, SERIESCRAVINGS, SOLARMOVIE, WATCHSERIES, XWATCHSERIES)
+
+[B]1.2.2[/B]
 - Új kiszolgáló (MOOVIECC)
 - FILMEZZ kiszolgáló frissítés
 - A feliratkereső funkció nem működött egyes eszközökön - javítva
