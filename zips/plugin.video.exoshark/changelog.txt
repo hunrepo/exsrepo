@@ -1,4 +1,10 @@
-﻿[B]1.2.3[/B]
+﻿[B]1.2.4[/B]
+- MOZICLUB kiszolgáló frissítés
+- Új angol kiszolgálók (BOB, DAREWATCH, FHDMOVIE, FILMXY, IOMOVIES, VIOOZ)
+- Angol kiszolgáló frissítések (AFDAH, ALLRLS, BESTMOVIEZ, CMOVIES,
+MOVIEGO, POPCORN, SERIESCRAVINGS, SOLARMOVIE, VODLY, WATCH32, XMOVIES)
+
+[B]1.2.3[/B]
 - Új kiszolgáló (FILMEZEK)
 - FILMEZZ kiszolgáló frissítés
 - FILMGO kiszolgáló frissítés

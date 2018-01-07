@@ -16,7 +16,7 @@
             <platform>all</platform>
     </extension>
 	</addon>
-<addon id="plugin.video.exoshark" version="1.2.3" name="ExoShark" provider-name="ExoShark">
+<addon id="plugin.video.exoshark" version="1.2.4" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
@@ -44,14 +44,10 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- Új kiszolgáló (FILMEZEK)
-- FILMEZZ kiszolgáló frissítés
-- FILMGO kiszolgáló frissítés
-- SOROZATKATALOGUS kiszolgáló frissítés
-- IMDb listák listázása javítva
-- Új angol kiszolgálók (BEETV, CHILLAX, FILEPURSUIT, FILMBAROON, SERIESONLINE, SHOWBOX, VMOOVE, VUMOO)
-- Angol kiszolgáló frissítések (ALLRLS, CARTOONHD, CMOVIES, FLIXANITY, HASTI, MOVIE4KIS,
-MOVIESGOLD, PRIMEWIRE, SERIESCRAVINGS, SOLARMOVIE, WATCHSERIES, XWATCHSERIES)</news>
+		<news>- MOZICLUB kiszolgáló frissítés
+- Új angol kiszolgálók (BOB, DAREWATCH, FHDMOVIE, FILMXY, IOMOVIES, VIOOZ)
+- Angol kiszolgáló frissítések (AFDAH, ALLRLS, BESTMOVIEZ, CMOVIES,
+MOVIEGO, POPCORN, SERIESCRAVINGS, SOLARMOVIE, VODLY, WATCH32, XMOVIES)</news>
 	</extension>
 </addon>
 <addon id="script.exoshark.artwork" version="1.0.1" name="ExoShark Artwork" provider-name="double beretta">
