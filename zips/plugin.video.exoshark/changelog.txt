@@ -1,4 +1,11 @@
-﻿[B]1.2.4[/B]
+﻿[B]1.2.5[/B]
+- HDFILMEK kiszolgáló frissítés
+- MOZICSILLAG kiszolgáló eltávolítva (oka: a linkek a HDFILMEK kiszolgáló oldalára vannak átírányítva)
+- Új angol kiszolgálók (DLTUBE, EXTRAMOVIES, NINEMOVIES, SOAPTV)
+- Angol kiszolgáló frissítések (ALLRLS, CHILLAX, RELEASEBB, SERIESCR, SERIESCRAVINGS, WATCHFREE)
+Megjegyzés: A CHILLAX kiszolgáló használatához regisztráció szükséges.
+
+[B]1.2.4[/B]
 - MOZICLUB kiszolgáló frissítés
 - Új angol kiszolgálók (BOB, DAREWATCH, FHDMOVIE, FILMXY, IOMOVIES, VIOOZ)
 - Angol kiszolgáló frissítések (AFDAH, ALLRLS, BESTMOVIEZ, CMOVIES,
