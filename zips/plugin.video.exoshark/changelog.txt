@@ -1,4 +1,16 @@
-﻿[B]1.2.5[/B]
+﻿[B]1.2.6[/B]
+- A környezeti menü előhívásával a filmhez/sorozathoz hasonló tartalom kereshető
+- Forrásbetöltés korlátozása - a beállított kiszolgáló limit után betöltődnek a források (módosítható a beállításokban)
+- Speciális epizódok megjelenítése (bekapcsolható a beállításokban)
+- Csak prémium források megjelenítése opció (bekapcsolható a beállításokban)
+- Trakt Gyűjtemény automatikus szinkronizálása (bekapcsolható a beállításokban)
+- Kisebb hibajavítások
+- Új angol kiszolgálók (MOVIESERIESTV, MOVIEWATCHER)
+- FURK kiszolgáló (fejlesztés alatt)
+- Angol kiszolgáló frissítések (BEETV, CARTOONHD, CMOVIES, DLTUBE, EXTRAMOVIES, FLIXANITY, MOVIE4KIS, WATCHSERIES)
+Megjegyzés: A FURK kiszolgáló használatához regisztráció szükséges.
+
+[B]1.2.5[/B]
 - HDFILMEK kiszolgáló frissítés
 - MOZICSILLAG kiszolgáló eltávolítva (oka: a linkek a HDFILMEK kiszolgáló oldalára vannak átírányítva)
 - Új angol kiszolgálók (DLTUBE, EXTRAMOVIES, NINEMOVIES, SOAPTV)
