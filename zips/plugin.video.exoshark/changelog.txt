@@ -1,4 +1,16 @@
-﻿[B]1.2.6[/B]
+﻿[B]1.2.7[/B]
+- MOZICLUB kiszolgáló frissítés
+- NETMOZI kiszolgáló frissítés
+- Választható linkfeloldó (URLResolver vagy ResolveURL - módosítható a beállításokban)
+- Trakt Könyvjelzők (lejátszási folyamat szinkronizálása a Trakttal - endegélyezhető a beállításokban)
+- Médiatárba történő importálás késleltetése (endegélyezhető a beállításokban)
+- A környezeti menü előhívásával a Megjelenésekre kattintva megtekinthetőek a külföldi DVD, VOD megjelenések
+- Új menüpont a Kedvenc sorozatok menüben: Trakt on Deck (a legutolsó 10 félbehagyott sorozatrész listázódik)
+- Kisebb hibajavítások
+- Új angol kiszolgálók (CINEMAMEGA, FULL4MOVIES, GEEKTV, HDMEGA, IWANNAWATCH, MOVIEWORLD, SCENERLS, VEXMOVIES, WSONLINE)
+- Angol kiszolgáló frissítések (FURK, FILEPURSUIT, PLOCKER, TVBOX, VUMOO, XMOVIES, YMOVIES)
+
+[B]1.2.6[/B]
 - A környezeti menü előhívásával a filmhez/sorozathoz hasonló tartalom kereshető
 - Forrásbetöltés korlátozása - a beállított kiszolgáló limit után betöltődnek a források (módosítható a beállításokban)
 - Speciális epizódok megjelenítése (bekapcsolható a beállításokban)

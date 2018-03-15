@@ -1,9 +1,10 @@
-﻿<addon id="plugin.video.exoshark" version="1.2.6" name="ExoShark" provider-name="ExoShark">
+﻿<addon id="plugin.video.exoshark" version="1.2.7" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
 		<import addon="script.exoshark.metadata" version="1.0.0" />
 		<import addon="script.module.urlresolver" version="3.0.32" />
+		<import addon="script.module.resolveurl" version="5.0.07" />
 		<import addon="script.module.metahandler" version="2.9.0" />
 		<import addon="script.module.requests" version="2.12.4" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -26,15 +27,15 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- A környezeti menü előhívásával a filmhez/sorozathoz hasonló tartalom kereshető
-- Forrásbetöltés korlátozása - a beállított kiszolgáló limit után betöltődnek a források (módosítható a beállításokban)
-- Speciális epizódok megjelenítése (bekapcsolható a beállításokban)
-- Csak prémium források megjelenítése opció (bekapcsolható a beállításokban)
-- Trakt Gyűjtemény automatikus szinkronizálása (bekapcsolható a beállításokban)
+		<news>- MOZICLUB kiszolgáló frissítés
+- NETMOZI kiszolgáló frissítés
+- Választható linkfeloldó (URLResolver vagy ResolveURL - módosítható a beállításokban)
+- Trakt Könyvjelzők (lejátszási folyamat szinkronizálása a Trakttal - endegélyezhető a beállításokban)
+- Médiatárba történő importálás késleltetése (endegélyezhető a beállításokban)
+- A környezeti menü előhívásával a Megjelenésekre kattintva megtekinthetőek a külföldi DVD, VOD megjelenések
+- Új menüpont a Kedvenc sorozatok menüben: Trakt on Deck (a legutolsó 10 félbehagyott sorozatrész listázódik)
 - Kisebb hibajavítások
-- Új angol kiszolgálók (MOVIESERIESTV, MOVIEWATCHER)
-- FURK kiszolgáló (fejlesztés alatt)
-- Angol kiszolgáló frissítések (BEETV, CARTOONHD, CMOVIES, DLTUBE, EXTRAMOVIES, FLIXANITY, MOVIE4KIS, WATCHSERIES)
-Megjegyzés: A FURK kiszolgáló használatához regisztráció szükséges.</news>
+- Új angol kiszolgálók (CINEMAMEGA, FULL4MOVIES, GEEKTV, HDMEGA, IWANNAWATCH, MOVIEWORLD, SCENERLS, VEXMOVIES, WSONLINE)
+- Angol kiszolgáló frissítések (FURK, FILEPURSUIT, PLOCKER, TVBOX, VUMOO, XMOVIES, YMOVIES)</news>
 	</extension>
 </addon>
