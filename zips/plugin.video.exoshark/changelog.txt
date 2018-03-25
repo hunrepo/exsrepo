@@ -1,4 +1,11 @@
-﻿[B]1.2.7[/B]
+﻿[B]1.2.8[/B]
+- Hibajavítás: A forráskeresésnél a folyamat párbeszédablakon megjelentek a találatok,
+de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg. Javítva.
+- A környezeti menü előhívásával az IMDb Infóra kattintva megtekinthetők a legfontosabb IMDb-s információk
+- Új angol kiszolgálók (COOLMOVIEZONE, MYVIDEOLINK, VIDICS)
+- Angol kiszolgáló frissítések (FHDMOVIE, FILEPURSUIT, MOVIE4KORG)
+
+[B]1.2.7[/B]
 - MOZICLUB kiszolgáló frissítés
 - NETMOZI kiszolgáló frissítés
 - Választható linkfeloldó (URLResolver vagy ResolveURL - módosítható a beállításokban)

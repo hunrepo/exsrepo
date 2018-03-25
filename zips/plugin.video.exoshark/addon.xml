@@ -1,4 +1,4 @@
-﻿<addon id="plugin.video.exoshark" version="1.2.7" name="ExoShark" provider-name="ExoShark">
+﻿<addon id="plugin.video.exoshark" version="1.2.8" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
@@ -27,15 +27,10 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- MOZICLUB kiszolgáló frissítés
-- NETMOZI kiszolgáló frissítés
-- Választható linkfeloldó (URLResolver vagy ResolveURL - módosítható a beállításokban)
-- Trakt Könyvjelzők (lejátszási folyamat szinkronizálása a Trakttal - endegélyezhető a beállításokban)
-- Médiatárba történő importálás késleltetése (endegélyezhető a beállításokban)
-- A környezeti menü előhívásával a Megjelenésekre kattintva megtekinthetőek a külföldi DVD, VOD megjelenések
-- Új menüpont a Kedvenc sorozatok menüben: Trakt on Deck (a legutolsó 10 félbehagyott sorozatrész listázódik)
-- Kisebb hibajavítások
-- Új angol kiszolgálók (CINEMAMEGA, FULL4MOVIES, GEEKTV, HDMEGA, IWANNAWATCH, MOVIEWORLD, SCENERLS, VEXMOVIES, WSONLINE)
-- Angol kiszolgáló frissítések (FURK, FILEPURSUIT, PLOCKER, TVBOX, VUMOO, XMOVIES, YMOVIES)</news>
+		<news>- Hibajavítás: A forráskeresésnél a folyamat párbeszédablakon megjelentek a találatok,
+de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg. Javítva.
+- A környezeti menü előhívásával az IMDb Infóra kattintva megtekinthetők a legfontosabb IMDb-s információk
+- Új angol kiszolgálók (COOLMOVIEZONE, MYVIDEOLINK, VIDICS)
+- Angol kiszolgáló frissítések (FHDMOVIE, FILEPURSUIT, MOVIE4KORG)</news>
 	</extension>
 </addon>
