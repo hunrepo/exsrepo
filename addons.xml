@@ -16,7 +16,7 @@
             <platform>all</platform>
     </extension>
 	</addon>
-<addon id="plugin.video.exoshark" version="1.2.8" name="ExoShark" provider-name="ExoShark">
+<addon id="plugin.video.exoshark" version="1.2.9" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
@@ -45,11 +45,11 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- Hibajavítás: A forráskeresésnél a folyamat párbeszédablakon megjelentek a találatok,
-de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg. Javítva.
-- A környezeti menü előhívásával az IMDb Infóra kattintva megtekinthetők a legfontosabb IMDb-s információk
-- Új angol kiszolgálók (COOLMOVIEZONE, MYVIDEOLINK, VIDICS)
-- Angol kiszolgáló frissítések (FHDMOVIE, FILEPURSUIT, MOVIE4KORG)</news>
+		<news>- HDFILMEK kiszolgáló frissítés
+- ONLINEPONT kiszolgáló frissítés
+- Az 'IMDb Infó' információs ablak javítva
+- Angol kiszolgáló frissítések (2DDL, ALLRLS, DDLVALLEY, DIRECTDL, DLTUBE, FHDMOVIE, FILEPURSUIT, FURK,
+IWANNAWATCH, MOVIE4KIS, MOVIE4KORG, MYVIDEOLINK, PHAZEDDL, SCENERLS, SERIESONLINE, VUMOO, WSONLINE, YMOVIES)</news>
 	</extension>
 </addon>
 <addon id="script.exoshark.artwork" version="1.0.1" name="ExoShark Artwork" provider-name="double beretta">
@@ -98,7 +98,7 @@ de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg
     <source></source>
   </extension>
 </addon>
-<addon id="script.module.urlresolver" name="URLResolver" version="5.0.08" provider-name="tvaddons">
+<addon id="script.module.urlresolver" name="URLResolver" version="5.0.14" provider-name="tvaddons">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />
@@ -119,7 +119,7 @@ de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg
         <website>https://www.tvaddons.co</website>
 	</extension>
 </addon>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.08" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.09" provider-name="jsergio">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="plugin.video.youtube" optional="true" />

@@ -1,4 +1,11 @@
-﻿[B]1.2.8[/B]
+﻿[B]1.2.9[/B]
+- HDFILMEK kiszolgáló frissítés
+- ONLINEPONT kiszolgáló frissítés
+- Az 'IMDb Infó' információs ablak javítva
+- Angol kiszolgáló frissítések (2DDL, ALLRLS, DDLVALLEY, DIRECTDL, DLTUBE, FHDMOVIE, FILEPURSUIT, FURK,
+IWANNAWATCH, MOVIE4KIS, MOVIE4KORG, MYVIDEOLINK, PHAZEDDL, SCENERLS, SERIESONLINE, VUMOO, WSONLINE, YMOVIES)
+
+[B]1.2.8[/B]
 - Hibajavítás: A forráskeresésnél a folyamat párbeszédablakon megjelentek a találatok,
 de a keresés végeztével 'Nincs elérhető adatfolyam' értesítés jelent meg. Javítva.
 - A környezeti menü előhívásával az IMDb Infóra kattintva megtekinthetők a legfontosabb IMDb-s információk
