@@ -1,4 +1,4 @@
-﻿<addon id="plugin.video.exoshark" version="1.3.1" name="ExoShark" provider-name="ExoShark">
+﻿<addon id="plugin.video.exoshark" version="1.3.0" name="ExoShark" provider-name="ExoShark">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.exoshark.artwork" version="1.0.0" />
@@ -16,8 +16,6 @@
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">ExoShark</summary>
 		<summary lang="hu">ExoShark</summary>
-		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-		<disclaimer lang="hu">A szerzőnek nincs birtokában a kiegészítő által megjelenített tartalom. A szerzőnek nincs semmilyen kapcsolata a tartalomszolgáltatóval.</disclaimer>
 		<platform>all</platform>
 		<forum></forum>
 		<website></website>
@@ -29,20 +27,12 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news>- FILMGO kiszolgáló frissítés
-- FILMTORNADO kiszolgáló frissítés
-- HDFILMEK kiszolgáló frissítés
-- NONSTOPMOZI kiszolgáló frissítés
-- SRTV kiszolgáló frissítés
-- Letöltés javítva
-- Lehetőség van kiszolgálók importálására (elérhető a beállításokban)
-(A zip fájl elnevezésének a következőképpen kell kinéznie: es_providers_hu.zip)
-- A találati statisztikák lementhetők a hibanaplóba (endegélyezhető a beállításokban)
-- Új angol kiszolgálók (CUTEMOVIE, MOVIESCO, PANDAMOVIE, RLSSCN, TIMEWATCH)
-- Angol kiszolgáló frissítések (BEETV, CARTOONHD, DAREWATCH, FILEPURSUIT,
-FILMXY, FULL4MOVIES, HASTI, IOMOVIE, MOVIE4UCH, MOVIEWATCHER, MYVIDEOLINK,
-NINEMOVIES, OPENLOADMOVIES, PROJECTFREE, SERIESONLINE, SOLARMOVIE, VMOOVE)
-- Új német kiszolgálók (CINEMATRIX, CINEMAXX, HDKINO, MOVIE4K-LT)
-- Német kiszolgáló frissítések (FILMPALAST, FOXX, HDFILME, MOOVIE, MOVIE2K-SH, MOVIE4K, MOVIETOWN, PROXER)</news>
+		<news>- Visszakerült a MOZICSILLAG kiszolgáló a kiegészítőbe
+- FILMEZZ kiszolgáló frissítés
+- MOOVIECC kiszolgáló frissítés
+- Angol kiszolgáló frissítések (CINEMAMEGA, DAREWATCH, FHDMOVIE, HDMEGA, MYVIDEOLINK, TVRELEASE)
+- Új német kiszolgálók (KINOGER, MOOVIE, MOOVIE-GG, MOVIE2K-SH, SZENE-STREAMZ, TMOVIE, VODHD)
+- Német kiszolgáló frissítések (BS, FOXX, HDFILME, HDSTREAMS, HORRORKINO, ILOAD,
+KINOKING, KINOW, MOVIE4K, MOVIETOWN, NETZKINO, SERIENSTREAM, STREAMIT, TATA, VIEW4U)</news>
 	</extension>
 </addon>
